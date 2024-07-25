@@ -1,0 +1,307 @@
+{
+    "descriptions": [
+        {
+            "armyId": 1,
+            "title" : "Adepta Sororitas",
+            "description": "Les Adepta Sororitas, ou Sœurs de Bataille, sont l'ordre militant de l'Écclesiarchie dans l'univers de Warhammer 40,000. Composées exclusivement de femmes, elles sont dévouées à la protection de la foi impériale et luttent contre les ennemis de l'Imperium avec une ferveur religieuse inébranlable, utilisant une combinaison de puissance de feu, de tactiques disciplinées et de prières. Leur engagement intransigeant fait d'elles l'une des forces les plus redoutées et respectées de l'Imperium.\nPour en savoir plus... [Cliquez ici !](adepta-sororitas)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 2,
+            "title" : "Adepte Custodes",
+            "description": "Les Adeptus Custodes sont les gardiens d'élite de l'Empereur de l'Humanité dans l'univers de Warhammer 40,000. Constitués de guerriers génétiquement améliorés, ils sont parmi les plus puissants combattants de l'Imperium, surpassant même les Space Marines. Leur rôle principal est de protéger le Palais Impérial et l'Empereur lui-même, mais ils interviennent aussi dans des missions critiques où la sécurité de l'Imperium est en jeu.\nPour en savoir plus... [Cliquez ici !](adeptus-custodes)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 3,
+            "title" : "Adeptus Mechanicus",
+            "description": "L'Adeptus Mechanicus est l'organisation technologique et scientifique de l'Imperium dans l'univers de Warhammer 40,000. Basés sur Mars, ses membres, appelés Tech-Priests, vénèrent le Dieu-Machine et cherchent à redécouvrir et préserver la technologie ancienne. Ils fournissent des armes, des vaisseaux et des machines de guerre à l'Imperium, tout en dirigeant leurs propres forces militaires, les Skitarii et les Chevaliers Impériaux.\nPour en savoir plus... [Cliquez ici !](adeptus-mechanicus)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 4,
+            "title" : "Aeldari",
+            "description": "Les Aeldari, autrefois connus sous le nom d'Eldars, sont une race ancienne et sophistiquée de l'univers de Warhammer 40,000. Autrefois maîtres d'un vaste empire galactique, leur civilisation a été décimée par la naissance de Slaanesh, un dieu du Chaos. Maintenant divisés en différentes factions comme les Asuryani, Drukhari, et Harlequins, les Aeldari utilisent leur technologie avancée, leurs pouvoirs psychiques et leurs stratégies supérieures pour lutter pour leur survie et tenter de restaurer leur ancienne gloire.\nPour en savoir plus... [Cliquez ici !](aeldari)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 5,
+            "title" : "Agents de l'Imperium",
+            "description": "Les agents de l'Imperium, dans l'univers de Warhammer 40,000, sont des individus et organisations au service direct de l'Empereur et de l'Imperium, chargés de missions variées pour protéger l'humanité. Ils incluent l'Inquisition, qui traque les hérésies et menaces internes; les Officio Assassinorum, responsables des assassinats ciblés de hauts ennemis; et les membres des adeptas administratives, qui gèrent l'immense bureaucratie de l'Imperium. Ces agents opèrent avec une autorité quasi absolue pour maintenir l'ordre et la stabilité de l'Imperium.\nPour en savoir plus... [Cliquez ici !](Agents-of-the-imperium)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 6,
+            "title" : "Astra Militarum",
+            "description": "L'Astra Militarum, également connu sous le nom de Garde Impériale, est la principale force armée de l'Imperium de l'Humanité dans l'univers de Warhammer 40,000. Composée de milliards de soldats issus de milliers de mondes, cette armée massive utilise une combinaison de troupes d'infanterie, de blindés, et d'artillerie pour défendre l'Imperium contre une multitude de menaces. Bien que souvent surpassés technologiquement par leurs ennemis, les soldats de l'Astra Militarum compensent par leur discipline, leur nombre écrasant et leur détermination inébranlable.\nPour en savoir plus... [Cliquez ici !](astra-militarum)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 7,
+            "title" : "Black Templars",
+            "description": "Les Black Templars sont un chapitre de Space Marines dans l'univers de Warhammer 40,000, connus pour leur zèle religieux et leur dévouement inébranlable à l'Empereur. Fondés lors de la Seconde Fondation, ils poursuivent une croisade perpétuelle à travers la galaxie, cherchant à éradiquer les ennemis de l'Imperium. Contrairement à d'autres chapitres, les Black Templars n'ont pas de monde d'origine et opèrent depuis leurs immenses flottes de guerre. Leur structure décentralisée et leur ferveur fanatique les rendent particulièrement redoutables sur le champ de bataille.\nPour en savoir plus... [Cliquez ici !](black-templars)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 8,
+            "title" : "Blood Angels",
+            "description": "Les Blood Angels sont un chapitre de Space Marines dans l'univers de Warhammer 40,000, renommé pour leur noblesse et leur ferveur au combat. Fondés à partir du patrimoine génétique de leur primarque Sanguinius, ils sont connus pour leur élégance martiale et leur courage inégalé. Cependant, ils sont également maudits par la Soif Rouge et la Rage Noire, des afflictions qui les plongent dans des frénésies sanguinaires incontrôlables. Basés sur la planète Baal, les Blood Angels luttent constamment pour équilibrer leur honneur légendaire avec les sombres malédictions qui les hantent.\nPour en savoir plus... [Cliquez ici !](blood-angels)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 9,
+            "title" : "Cultes Genestealers",
+            "description": "Les Cultes Genestealers sont des sectes subversives dans l'univers de Warhammer 40,000, formées par des Xenos infiltrateurs, les Genestealers. Ces cultes secrètement implantent des graines de rébellion sur des mondes humains en semant la discorde et en infiltrant les structures sociales locales. Composés de divers membres, de simples ouvriers aux fervents fanatiques, les cultes poursuivent leur objectif ultime de préparer les mondes pour l'invasion des Tyranides. Leur influence grandissante s'accompagne d'une expansion insidieuse, souvent menée par des Patriarches, des êtres puissants et charismatiques, qui manipulent leurs adeptes pour fomenter des révoltes contre l'Imperium.\nPour en savoir plus... [Cliquez ici !](genestealer-cults)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 10,
+            "title" : "Dark Angels",
+            "description": "Les Dark Angels sont un chapitre de Space Marines dans l'univers de Warhammer 40,000, réputé pour leur discipline rigoureuse et leurs secrets obscurs. Fondés par le Primarque Lion El'Jonson, ils sont connus pour leur quête perpétuelle de rédemption pour les péchés de leurs ancêtres. Leur histoire est marquée par la Chute des Lion, un événement où une partie de leurs frères, les Déchus, ont trahi l'Imperium. Les Dark Angels cherchent à capturer ces traîtres et à maintenir leur mystère, tout en maintenant une vigilance implacable pour protéger l'Imperium contre toutes les menaces.\nPour en savoir plus... [Cliquez ici !](dark-angels)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 11,
+            "title" : "Death Watch",
+            "description": "Les Deathwatch sont une force d'élite au service de l'Imperium, composée de vétérans Space Marines sélectionnés pour des missions de haute importance contre les menaces xenos. Organisés en Kill-teams, ils mènent des opérations de destruction ciblée et d'infiltration. Leur rôle est de protéger l'Imperium en combattant les ennemis extraterrestres avec des compétences spécialisées.\nPour en savoir plus... [Cliquez ici !](deathwatch)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 12,
+            "title" : "Death Guard",
+            "description": "Les Death Guard sont un chapitre de Space Marines du Chaos, voué au dieu Nurgle, le Seigneur de la Peste. Marqués par des mutations déformantes et des maladies dévastatrices, ils sont des champions de la corrosion et de la décadence, cherchant à répandre la peste et la corruption à travers la galaxie. Leur chef, le Grand Père des Pesteux, Mortarion, les guide dans leur quête de destruction et de dépravation.\nPour en savoir plus... [Cliquez ici !](death-guard)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 13,
+            "title" : "Démons du Chaos",
+            "description": "Les Démons du Chaos sont des entités surnaturelles invoquées depuis le Warp, servantes des quatre dieux du Chaos : Khorne, Tzeentch, Nurgle et Slaanesh. Ils incarnent les aspects destructeurs et dépravants de leurs maîtres divins, cherchant à semer le chaos et la corruption dans l’univers. Leur présence est une menace constante pour l’Imperium et toutes les civilisations de la galaxie.\nPour en savoir plus... [Cliquez ici !](chaos-daemons)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 14,
+            "title" : "Drukhari",
+            "description": "Les Drukhari, ou Eldars Noirs, sont une race xenos maléfique et sadique vivant dans la cité-ruche de Commorragh. Ils mènent des raids cruels contre d'autres races, cherchant à prolonger leur existence par le vol d'âmes et la souffrance. Leur société est régie par la violence et le pillage, cherchant à échapper à la déchéance et à la destruction.\nPour en savoir plus... [Cliquez ici !](drukhari)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 15,
+            "title" : "Grey Knights",
+            "description": "Les Grey Knights sont un chapitre secret et sacré de Space Marines spécialisés dans la lutte contre les démons du Chaos et les menaces surnaturelles. Équipés de puissantes armes psy et dotés d'une formation rigoureuse, ils opèrent discrètement pour protéger l'Imperium des forces du Warp. Leur existence est gardée secrète pour éviter que le Chaos ne découvre leur rôle crucial.\nPour en savoir plus... [Cliquez ici !](grey-knights)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 16,
+            "title" : "Imperial Fists",
+            "description": "Les Imperial Fists sont un chapitre de Space Marines réputé pour sa défense indéfectible et son expertise en fortifications. Fondés par le Primarque Rogal Dorn, ils sont célèbres pour leur courage dans les sièges et leur rôle dans la défense de l'Imperium contre les invasions ennemies. Leur planète d'origine est Inwit, et leur emblème est le poing impérial.\nPour en savoir plus... [Cliquez ici !](imperial-fists)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 17,
+            "title" : "Imperial Knights",
+            "description": "Les Imperial Knights sont des gigantesques machines de guerre pilotées par des nobles familles hérétiques dans l'Imperium de l'Humanité. Ces chevaliers blindés combattent en tant que forces d'élite pour défendre les mondes impériaux et lutter contre les menaces xenos et du Chaos. Leur code d'honneur, appelé : Litanie du Chevalier, guide leurs actions en combat et en temps de paix.\nPour en savoir plus... [Cliquez ici !](imperial-knights)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 18,
+            "title" : "Iron Hands",
+            "description": "Les Iron Hands sont un chapitre de Space Marines réputé pour leur dévotion à la machine et leur froideur dans la bataille. Fondés par le Primarque Ferrus Manus, ils valorisent la technologie et la cybernétique, cherchant à remplacer la chair par le métal pour renforcer leurs capacités martiales. Leur planète d’origine est Medusa, et leur symbole est une main de fer.\nPour en savoir plus... [Cliquez ici !](iron-hands)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 19,
+            "title" : "Leagues of Votann",
+            "description": "Les Leagues of Votann sont une race ancienne de xenos vivant dans des clans technologiques avancés dans l'univers de Warhammer 40,000. Ils sont connus pour leur maîtrise de la technologie et des artefacts perdus, cherchant à préserver leur civilisation face aux menaces galactiques. Leur organisation est basée sur une structure de clans unis par un Conseil de la Forge et le vénérable Votann, une entité consciente qui guide leur peuple.\nPour en savoir plus... [Cliquez ici !](leagues-of-votann)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 20,
+            "title" : "Necrons",
+            "description": "Les Necrons sont une race d'anciens robots xenos réveillés d’un sommeil millénaire pour reprendre leur empire galactique. Autrefois des êtres organiques, ils ont été transformés en formes métalliques par un pacte avec les Dieux du Chaos, puis ont cherché à s’échapper de cette malédiction. Leur but est de reconquérir la galaxie, écraser les races vivantes et restaurer leur ancienne grandeur.\nPour en savoir plus... [Cliquez ici !](necrons)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 21,
+            "title" : "Orks",
+            "description": "Les Orks sont une race xenos brutale et belliqueuse dans l'univers de Warhammer 40,000, caractérisée par leur amour du combat et de la destruction. Organisés en tribus et clans, ils cherchent constamment des conflits et des guerres pour satisfaire leur désir inné de bataille. Leur culture est marquée par un humour simple, une anarchie organisée et une affinité pour les machines et les armes bricolées.\nPour en savoir plus... [Cliquez ici !](orks)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 22,
+            "title" : "Raven Guard",
+            "description": "Les Raven Guard sont un chapitre de Space Marines connu pour leur maîtrise des tactiques de guérilla et de frappe en profondeur. Fondés par le Primarque Corax, ils se spécialisent dans l'infiltration, les assauts furtifs et les frappes surprises contre les ennemis de l'Imperium. Leur planète d'origine est Deliverance, et leur emblème est un corbeau en vol.\nPour en savoir plus... [Cliquez ici !](raven-guard)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 23,
+            "title" : "Salamanders",
+            "description": "Les Salamanders sont un chapitre de Space Marines réputé pour leur bravoure au combat et leur compassion envers les civils dans l'univers de Warhammer 40,000. Fondés par le Primarque Vulkan, ils sont spécialisés dans l'utilisation des armes à feu et du lance-flammes, et leur culture valorise la protection des innocents ainsi que le courage en bataille. Leur planète d'origine est Nocturne, un monde volcanique.\nPour en savoir plus... [Cliquez ici !](salamanders)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 24,
+            "title" : "Space Marines",
+            "description": "Les Space Marines sont des soldats d'élite génétiquement modifiés de l'Imperium de l'Humanité, formés pour défendre l'univers contre des menaces internes et externes. Chaque chapitre est composé de guerriers hautement entraînés, dotés d'armures puissantes et d'armes avancées. Leur rôle est de mener des opérations militaires décisives et d'incarner l'honneur et la force de l'Imperium.\nPour en savoir plus... [Cliquez ici !](space-marine)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 25,
+            "title" : "Space Marines du Chaos",
+            "description": "Les Space Marines du Chaos sont des guerriers d'élite corrompus par les Dieux du Chaos, ayant trahi l'Imperium pour embrasser les ténèbres. Jadis des frères des Space Marines loyaux, ils servent maintenant des puissances chaotiques comme Khorne, Tzeentch, Nurgle et Slaanesh, cherchant à détruire l'Imperium et semer le chaos dans la galaxie. Leur iconographie et leurs objectifs reflètent leur dévotion aux Dieux du Chaos.\nPour en savoir plus... [Cliquez ici !](chaos-space-marines)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 26,
+            "title" : "Space Wolves",
+            "description": "Les Space Wolves sont un chapitre de Space Marines connus pour leur férocité au combat et leur culture tribale inspirée par les légendes nordiques. Fondés par le Primarque Leman Russ, ils sont célèbres pour leur esprit de meute, leur bravoure en bataille et leur attachement à leurs traditions anciennes. Leur planète d'origine est Fenris, un monde gelé et hostile.\nPour en savoir plus... [Cliquez ici !](space-wolves)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 27,
+            "title" : "Thousand Sons",
+            "description": "Les Thousand Sons sont un chapitre de Space Marines du Chaos, corrompu par le dieu du savoir et des mutations, Tzeentch. Jadis un chapitre loyal à l'Imperium, ils ont été transformés en sorciers puissants et déformés par leur recherche de la connaissance interdite. Leur histoire est marquée par la Chute de Prospero, où ils ont été trahis par leurs frères Space Marines et condamnés à errer dans le Warp.\nPour en savoir plus... [Cliquez ici !](thousand-sons)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 28,
+            "title" : "T'au Empire",
+            "description": "Le T’au Empire est une faction xenos dans l'univers de Warhammer 40,000, connue pour son avancée technologique et sa doctrine de l'Élargissement du Bien Suprême. Sous le leadership de l'Ethéré et des Commanders, ils cherchent à étendre leur influence galactique par la diplomatie, la technologie et la guerre. Leur armée se compose de Fire Warriors, Crisis Suits, et autres unités spécialisées, utilisant des armes avancées et des tactiques modernes.\nPour en savoir plus... [Cliquez ici !](tau-empire)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 29,
+            "title" : "Tyranides",
+            "description": "Les Tyranides sont une race xenos extraterrestre, constituée de vastes essaims biologiques cherchant à consommer toute biomasse pour leur survie. Dirigés par une entité nommée la Ruche-Maîtresse, ils envahissent les mondes en dévorant les ressources et en adaptant leurs créatures pour maximiser leur efficacité. Leur but ultime est de détruire et assimiler toute forme de vie dans l'univers.\nPour en savoir plus... [Cliquez ici !](tyranids)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 30,
+            "title" : "Ultramarines",
+            "description": "Les Ultramarines sont un chapitre de Space Marines emblématique dans l'univers de Warhammer 40,000, connu pour leur discipline rigoureuse et leur rôle de modèle pour les autres chapitres. Fondés par le Primarque Roboute Guilliman, ils sont les défenseurs des mondes Ultramar, un secteur prospère et fortifié de l'Imperium. Leur approche tactique équilibrée et leur respect des traditions font d'eux les parangons de l'Astartes.\nPour en savoir plus... [Cliquez ici !](ultramarines)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 31,
+            "title" : "White Scars",
+            "description": "Les White Scars sont un chapitre de Space Marines célèbre pour ses tactiques de frappes rapides et de guerre de mouvement. Fondés par le Primarque Jaghatai Khan, ils se spécialisent dans l'utilisation de bikes et de jetbikes pour mener des attaques éclairs contre leurs ennemis. Leur planète d'origine est Chogoris, un monde de steppes et de plaines.\nPour en savoir plus... [Cliquez ici !](white-scars)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 32,
+            "title" : "World Eaters",
+            "description": "Les World Eaters sont un chapitre de Space Marines du Chaos, dévoué au dieu du sang Khorne et connu pour sa soif de combat et de carnage. Jadis un chapitre loyal sous le Primarque Angron, ils ont succombé à la Rage Sanglante, une malédiction qui les pousse à une brutalité extrême sur le champ de bataille. Leur objectif est de semer le chaos et de répandre le sang des ennemis de Khorne.\nPour en savoir plus... [Cliquez ici !](world-eaters)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+        {
+            "armyId": 33,
+            "title" : "Beasts of Chaos",
+            "description": "Les Beasts of Chaos sont des créatures bestiales et chaotiques qui vénèrent les dieux sombres. Ils émergent des forêts et des montagnes pour dévaster les civilisations humaines. Leurs armées sont composées de diverses bêtes sauvages et de mutants, semant la destruction partout où elles passent.\nPour en savoir plus... [Cliquez ici !](beasts-of-chaos)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 34,
+            "title" : "Blades Of Khorne",
+            "description": "Les Blades of Khorne sont une faction terrifiante et sanguinaire qui émerge de l'univers de Warhammer Age of Sigmar. Khorne est l'un des dieux du chaos, vénéré pour sa soif insatiable de combat, de sang et de massacre. Les guerriers qui le servent sont dédiés à répandre la destruction à travers les royaumes.\nPour en savoir plus... [Cliquez ici !](blades-of-khorne)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 35,
+            "title" : "Cities Of Sigmar",
+            "description": "Les Cités de Sigmar, sous la protection du dieu Sigmar, résistent aux forces chaotiques grâce à leurs armées disciplinées et à leurs alliances stratégiques. Elles symbolisent l'unité et la diversité au sein de l'Ordre, luttant pour la lumière dans un monde de ténèbres.\nPour en savoir plus... [Cliquez ici !](cities-of-sigmar)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 36,
+            "title" : "Daughters of Khaine",
+            "description": "Les Filles de Khaine sont une faction féroce de Warhammer Age of Sigmar, composée principalement d'aelves assoiffées de sang, vénérant le dieu du meurtre Khaine. Menées par la reine Morathi, elles combinent une puissance magique dévastatrice et une habileté martiale létale, se distinguant par leurs rituels sanglants et leur dévouement fanatique. Leur objectif est de répandre la terreur et de revendiquer la suprématie en offrant des sacrifices sanglants à leur divinité sombre.\nPour en savoir plus... [Cliquez ici !](daughters-of-khaine)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 37,
+            "title" : "Disciples of Tzeentch",
+            "description": "Les Disciples de Tzeentch sont une faction chaotique de Warhammer Age of Sigmar, dévouée au dieu du changement, de la sorcellerie et des complots. Composée de sorciers puissants, de démons et de mortels corrompus, cette armée utilise la magie et la manipulation pour semer la discorde et réécrire la réalité à leur avantage. Leur objectif est de perpétuer l'entropie et l'évolution constante, orchestrant des machinations complexes pour satisfaire les caprices imprévisibles de Tzeentch.\nPour en savoir plus... [Cliquez ici !](disciples-of-tzeentch)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 38,
+            "title" : "Flesh-eater Courts",
+            "description": "Les Flesh-eater Courts sont une faction macabre de Warhammer Age of Sigmar, composée de goules cannibales et de vampires déments, convaincus d'être de nobles chevaliers. Ces créatures corrompues, dirigées par des rois goules mégalomanes, vivent dans une illusion collective, voyant leurs actes monstrueux comme des gestes honorables. Leur objectif est de répandre leur malédiction et de se repaître de la chair des vivants, transformant des royaumes prospères en terres de cauchemar.\nPour en savoir plus... [Cliquez ici !](flesh-eater-courts)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },        
+
+        {
+            "armyId": 39,
+            "title" : "Fyreslayers",
+            "description": "Les Fyreslayers sont une faction ardente de Warhammer Age of Sigmar, constituée de duardins (nains) mercenaires vénérant Grimnir, le dieu du feu et de la guerre. Arborant des crêtes flamboyantes et des tatouages runiques, ils recherchent l'ur-or, un minerai sacré qui contient l'essence de leur dieu défunt, pour honorer sa mémoire et gagner en puissance. Leur objectif est de préserver leurs traditions ancestrales, combattant avec une férocité indomptable pour accumuler richesse et gloire.\nPour en savoir plus... [Cliquez ici !](fyreslayers)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },   
+
+        {
+            "armyId": 40,
+            "title" : "Gloomspite Gitz",
+            "description": "Les Gloomspite Gitz sont une faction chaotique de Warhammer Age of Sigmar, composée de grots (gobelins), de squigs déchaînés et de troggoths brutaux. Influencés par la Bad Moon, une lune maléfique, ils émergent des profondeurs pour semer le chaos et la destruction partout où ils passent. Guidés par la ruse et la folie, leur objectif est de répandre la terreur et de satisfaire leur désir de carnage et de pillage.\nPour en savoir plus... [Cliquez ici !](gloomspite-gitz)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },   
+
+        {
+            "armyId": 41,
+            "title" : "Hedonites of Slaanesh",
+            "description": "Les Hedonites de Slaanesh sont une faction décadente de Warhammer Age of Sigmar, vouée au dieu du plaisir et de l'excès, Slaanesh. Composés de démons et de mortels corrompus, ils recherchent sans cesse des expériences sensorielles extrêmes et des plaisirs interdits. Leur objectif est de libérer Slaanesh de sa prison divine et de plonger les royaumes dans une orgie de débauche et de souffrance.\nPour en savoir plus... [Cliquez ici !](hedonites-of-slaanesh)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },   
+
+        {
+            "armyId": 42,
+            "title" : "Idoneth of Deepkin",
+            "description": "Les Idoneth Deepkin sont une faction mystérieuse de Warhammer Age of Sigmar, constituée d'aelves aquatiques vivant dans les profondeurs des océans. Créés par Teclis mais marqués par une âme défectueuse, ils mènent des raids sur les terres émergées pour capturer des âmes et ainsi survivre. Guidés par leurs Rois des Profondeurs, leur objectif est de préserver leur civilisation secrète tout en évitant l'extinction.\nPour en savoir plus... [Cliquez ici !](idoneth-deepkin)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 43,
+            "title" : "Kharadron Overlords",
+            "description": "Les Kharadron Overlords sont une faction industrielle et mercenaire de Warhammer Age of Sigmar, composée de duardins (nains) naviguant à travers les cieux à bord de leurs vaisseaux aéronautiques. Utilisant la technologie steampunk et l'avarice comme moteurs principaux, ils commercent et pillent pour accumuler richesse et pouvoir. Leur société est organisée autour de guildes de skyports, chacune rivalisant pour dominer les cieux et exploiter les ressources des royaumes mortels.\nPour en savoir plus... [Cliquez ici !](kharadron-overlords)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 44,
+            "title" : "Lumineth Realm Lords",
+            "description": "Les Lumineth Realm-lords sont une faction noble et magique de Warhammer Age of Sigmar, dirigée par Teclis et influencée par les éléments primordiaux. Composés principalement d'aelves éthérés, ils manient une magie puissante et un savoir ancestral pour restaurer la lumière et l'ordre dans les royaumes mortels. Leur quête vise à purifier leur société des influences chaotiques tout en préservant leur héritage culturel et magique.\nPour en savoir plus... [Cliquez ici !](lumineth-realm-lords)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 45,
+            "title" : "Maggotkin of Nurgle",
+            "description": "Les Maggotkin of Nurgle sont une faction dégoûtante de Warhammer Age of Sigmar, vénérant le dieu de la pourriture et de la maladie, Nurgle. Composés de mortels et de démons pourris mais joyeux, ils répandent des maladies mortelles et corrompent tout sur leur passage. Leur objectif est de faire prospérer la décomposition dans les royaumes mortels, créant des épidémies pour apporter la bénédiction putride de Nurgle à tous.\nPour en savoir plus... [Cliquez ici !](maggotkin-of-nurgle)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 46,
+            "title" : "Nighthaunt",
+            "description": "Les Nighthaunt sont une horde spectrale de Warhammer Age of Sigmar, constituée d'âmes tourmentées et de spectres maléfiques, menée par le sinistre Nagash. Réveillés des Royaumes de la Mort, ils cherchent à étendre leur emprise sur les vivants, semant terreur et désespoir avec leurs pouvoirs fantomatiques et leurs légions sans fin. Leur but est de submerger les royaumes mortels sous un voile de ténèbres éternelles, conformément aux desseins immortels de leur maître.\nPour en savoir plus... [Cliquez ici !](nighthaunt)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 47,
+            "title" : "Ogor Mawtribes",
+            "description": "Les Ogor Mawtribes sont une faction robuste de Warhammer Age of Sigmar, composée de gigantesques ogors affamés et voraces. Organisés en tribus nomades et dirigés par de puissants tyrans, ils parcourent les royaumes en quête de nourriture et de richesses. Leur société est centrée autour du festin et de la survie, chaque bataille étant une opportunité de se repaître et de prospérer.\nPour en savoir plus... [Cliquez ici !](ogor-mawtribes)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 48,
+            "title" : "Orruk Warclans",
+            "description": "Les Orruk Warclans sont une faction brutale de Warhammer Age of Sigmar, constituée d'orruks (orques) et de grots (gobelins) en quête perpétuelle de batailles et de conflits. Divisés en différentes tribus et clans, comme les Ironjawz et les Bonesplitterz, ils vénèrent Gorkamorka, le dieu de la guerre, et pillent sans relâche pour prouver leur force. Leur objectif est de démontrer leur brutalité et de dominer les royaumes mortels à travers la force brute et la ruse combative.\nPour en savoir plus... [Cliquez ici !](orruk-warclans)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 49,
+            "title" : "Ossiarch Bonereapers",
+            "description": "Les Ossiarch Bonereapers sont une faction implacable de Warhammer Age of Sigmar, créée par Nagash à partir d'ossements et d'âmes pour servir ses desseins impitoyables. Composés de mortek guards, de Kavalos Deathriders et d'autres créations macabres, ils cherchent à étendre la domination de Nagash sur les royaumes mortels. Leur but est d'instaurer un ordre de pureté ossianique, purgé de toute imperfection et de toute résistance.\nPour en savoir plus... [Cliquez ici !](ossiarch-bonereapers)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 50,
+            "title" : "Seraphon",
+            "description": "Les Seraphon sont une faction mystique de Warhammer Age of Sigmar, composée de créatures célestes invoquées par les pouvoirs stellaires du dieu Slaan. Dirigés par les Slaan, des mages sauriens immortels, ils combattent les forces du Chaos avec une technologie ancienne et une magie éblouissante. Leur objectif est de restaurer l'ordre cosmique en semant la terreur parmi leurs ennemis avec une efficacité impitoyable.\nPour en savoir plus... [Cliquez ici !](seraphon)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 51,
+            "title" : "Skaven",
+            "description": "Les Skaven sont une faction rusée et prolifique de Warhammer Age of Sigmar, constituée de ratmen mutants et fourbes qui se cachent dans les ombres et les égouts. Organisés en clans perfides comme les Skryre et les Pestilens, ils complotent pour la domination totale, utilisant technologie délirante et magie impie pour renverser leurs ennemis. Leur objectif est de corrompre et de conquérir, répandant la peur et la maladie à travers les royaumes mortels.\nPour en savoir plus... [Cliquez ici !](skaven)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 52,
+            "title" : "Slaves to Darkness",
+            "description": "Les Slaves to Darkness sont une faction corrompue de Warhammer Age of Sigmar, vouée aux sombres dieux du Chaos comme Archaon le Seigneur Éternel. Composés de guerriers mortels et de démons dépravés, ils répandent la destruction et la désolation à travers les royaumes mortels. Leur but est d'unir les forces du Chaos sous une seule bannière pour écraser toute opposition et plonger le monde dans un règne éternel de ténèbres.\nPour en savoir plus... [Cliquez ici !](slaves-to-darkness)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 53,
+            "title" : "Sons of Behemat",
+            "description": "Les Sons of Behemat sont une faction colossale de Warhammer Age of Sigmar, composée de gigantesques Gargants errants à travers les royaumes mortels. Individuellement puissants et imprévisibles, ils dévastent tout sur leur passage, qu'ils soient motivés par la faim, la guerre ou le chaos. Leur présence incarne la menace titanesque et l'instabilité dans les régions qu'ils traversent, provoquant terreur et destruction.\nPour en savoir plus... [Cliquez ici !](sons-of-behemat)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 54,
+            "title" : "Soulblight Gravelords",
+            "description": "Les Soulblight Gravelords sont une faction vampirique de Warhammer Age of Sigmar, dirigée par des seigneurs vampires assoiffés de pouvoir et de sang. Composés de morts-vivants aristocratiques, de vampires sauvages et de goules serviles, ils étendent leur influence à travers les royaumes mortels. Leur objectif est de renforcer leur pouvoir en recrutant des créatures des ténèbres et en manipulant les événements pour leur bénéfice personnel.\nPour en savoir plus... [Cliquez ici !](soulblight-gravelords)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 55,
+            "title" : "Stormcast Eternals",
+            "description": "Les Stormcast Eternals sont une faction céleste de Warhammer Age of Sigmar, créée par Sigmar à partir des âmes des plus valeureux guerriers mortels. Armés de lames célestes et d'armures bénies, ils sont chargés de défendre les royaumes mortels contre les forces du Chaos. Renforcés par la magie et la technologie divine, leur mission est de restaurer la lumière et l'ordre dans un monde déchiré par la guerre.\nPour en savoir plus... [Cliquez ici !](stormcast-eternals)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            },
+
+        {
+            "armyId": 56,
+            "title" : "Sylvaneth",
+            "description": "Les Sylvaneth sont une faction mystique de Warhammer Age of Sigmar, constituée d'esprits sylvestres et d'êtres végétaux magiques, menés par Alarielle, la déesse des elfes sylvains. Ils protègent les forêts anciennes et combattent pour la survie de la nature contre les forces du Chaos et de la destruction. Utilisant la magie des arbres et des esprits, ils incarnent la vigueur de la nature et cherchent à restaurer l'équilibre dans les royaumes mortels.\nPour en savoir plus... [Cliquez ici !](Sylvaneth)<br><br>Bienvenue sur la page qui vous permettra de suivre vos modèles !" 
+            }
+    ]
+  }
