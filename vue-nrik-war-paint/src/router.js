@@ -2,9 +2,11 @@ import { createRouter, createWebHistory } from 'vue-router';
 import HomePage from './views/HomePage.vue';
 import Login from './views/Login.vue';
 import CreateAccount from './views/CreateAccount.vue';
+import NavigationMenu from './views/NavigationMenu.vue';
+import PersonalGallery from './views/Gallery/PersonalGallery.vue';
 import ArmySection from './views/Army/ArmySection.vue';
 import ArmyDetail from './views/Army/ArmyDetail.vue';
-import LoreSection from './views/Lore/Factions/LoreSection.vue';
+import LoreSection from './views/Lore/LoreSection.vue';
 import AgeOfSigmar from '@/views/Lore/AgeOfSigmar.vue';
 import Warhammer40K from '@/views/Lore/Warhammer40K.vue';
 import LordOfTheRings from '@/views/Lore/LordOfTheRings.vue';
@@ -70,6 +72,8 @@ const routes = [
   { path: '/', name: 'HomePage', component: HomePage },
   { path: '/Login', name: 'Login', component: Login },
   { path: '/CreateAccount', name: 'CreateAccount', component: CreateAccount },
+  { path: '/navigation-menu', name: 'NavigationMenu', component: NavigationMenu },
+  { path: '/personal-gallery', component: PersonalGallery },
   { path: '/ArmySection', name: 'ArmySection', component: ArmySection },
   { path: '/ArmyDetail', name: 'ArmyDetail', component: ArmyDetail, props: route => ({ name: route.query.name })},
   { path: '/LoreSection', name: 'LoreSection', component: LoreSection },

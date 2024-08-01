@@ -97,5 +97,8 @@
     background-color: #4BAA34;
     border: none;
   }
+  .submit-button:hover {
+    background-color: #3a8a27;
+}
   </style>
   

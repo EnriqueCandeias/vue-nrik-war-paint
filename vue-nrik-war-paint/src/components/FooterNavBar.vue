@@ -3,9 +3,9 @@
     <nav class="footer navbar">
       <div class="container-fluid d-flex">
         <div class="d-flex align-items-center">
-          <a href="Accueil.html">
+          <router-link to="/">
             <img :src="logoSrc" alt="Logo" class="logo-bottom footer-content" />
-          </a>
+          </router-link>
           <p class="footer-content">Copyright © 2024 <br /> droits réservés.</p>
         </div>
         <div class="d-flex align-items-center">
@@ -20,7 +20,7 @@
           </a>
         </div>
         <div class="d-flex align-items-center">
-          <p class="footer-content"><a href="Accueil.html">Accueil</a></p>
+          <router-link class="footer-content" to="/">Accueil</router-link>
           <p class="footer-content"><a href="Contact.html">Contact</a></p>
           <p class="footer-content"><a href="FAQ.html">FAQ</a></p>
         </div>
@@ -135,7 +135,7 @@ watch(route, () => {
         margin: 4px !important;
         font-size: x-small;
         line-height: 17px;
-        color: rgb(8, 8, 8);
+        color: rgb(255, 255, 255);
     }
 }
 </style>

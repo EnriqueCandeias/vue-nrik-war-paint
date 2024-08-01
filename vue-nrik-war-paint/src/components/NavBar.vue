@@ -8,7 +8,10 @@
                     <router-link class="navbar-brand" to="/">
                         <img :src="logoSrc" alt="Logo Nrik War Paint" class="logo-left">
                     </router-link>
-                    <div class="navbar-brand-title">Nrik War Paint</div>
+                    <router-link to="/" class="navbar-brand-title" style="text-decoration: none;">
+                        Nrik War Paint
+                    </router-link>
+
                 </div>
 
                 <div class="search-bar d-flex align-items-center">
@@ -17,7 +20,8 @@
                 </div>
                 
                 <div class="nav-links d-flex align-items-center">
-                    <a href="Catégorie-photo.html" class="nav-link mx-3">Galerie photo</a>
+                    <router-link to="/" class="nav-link mx-3">Accueil</router-link>
+                    <router-link to="/personal-gallery" class="nav-link mx-3">Galerie photo</router-link>
                     <router-link to="/ArmySection" class="nav-link mx-3">Ma collection</router-link>
                     <router-link to="/LoreSection" class="nav-link mx-3">Lore des Univers</router-link>
                 </div>
@@ -33,16 +37,22 @@
 
         <nav class="navbar-smartphone navtop navbar w-100">
             <div class="container-fluid d-flex align-items-center justify-content-between">
-                <a class="navbar-brand" href="Accueil.html"><i class="fa-solid fa-house fa-2x" style="color: #F44336;"></i></a>
+                <router-link to="/" class="navbar-brand">
+                    <i class="fa-solid fa-house fa-2x" style="color: #F44336;"></i>
+                </router-link>
                 
                 <div class="d-flex align-items-center mx-auto">
-                    <img :src="logoSrc" alt="Logo Nrik War Paint" width="60" class="me-2 logo-nav">
-                    <p class="m-0" style="color: #F44336; font-size: 2.5rem;">Nrik War Paint</p>
+                    <router-link to="/" class="navbar-brand" style="display: flex; align-items: center; text-decoration: none;">
+                        <img :src="logoSrc" alt="Logo Nrik War Paint" width="60" class="me-2 logo-nav">
+                        <p class="m-0" style="color: #F44336; font-size: 2.5rem;">Nrik War Paint</p>
+                    </router-link>
                 </div>
                 
                 <div class="d-flex">
                     <a class="navbar-brand" href="Menu-recherche.html"><i class="fa-solid fa-magnifying-glass fa-2x" style="color: #F44336;"></i></a>
-                    <a class="navbar-brand" href="Menu-déroulant.html"><i class="fa-solid fa-bars fa-2x" style="color: #F44336;"></i></a>
+                    <router-link to="/navigation-menu" class="navbar-brand">
+                        <i class="fa-solid fa-bars fa-2x" style="color: #F44336;"></i>
+                    </router-link>                
                 </div>
             </div>
         </nav>

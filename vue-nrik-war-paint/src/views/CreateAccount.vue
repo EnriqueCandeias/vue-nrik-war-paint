@@ -1,5 +1,4 @@
 <template>
-
     <div class="container mt-4">
         <div class="container-text">
             <h3 style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 24; color:aliceblue;">Créer un compte</h3><br>
@@ -68,13 +67,12 @@
                                     Je voudrais m'abonner à la newsletter Nrik War Paint
                                 </label>
                             </div>
-                            <button type="submit" class="btn btn-primary" style="background-color: #4BAA34; border: none;">Continuer</button>
+                            <button type="submit" class="btn btn-primary submit-button">Continuer</button>
                         </form>
                     </div>
                 </div>
         </div>
     </div>
-
 </template>
 
 <script setup>
@@ -82,11 +80,10 @@
 </script>
 
 <style scoped>
-
 .container {
     padding: 30px;
     margin-bottom: 60px;
-  }
+}
 
 .container-text {
     font-family: Arial, Helvetica, sans-serif;
@@ -105,29 +102,35 @@
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-  }
+}
 
 /* Style pour les champs d'entrée */
 .custom-input {
     width: 100%; /* Ajustez cette largeur selon vos besoins */
     max-width: 400px; /* Largeur maximale du champ */
-  }
+}
   
-  /* Style pour le conteneur du formulaire */
-  .form-container {
+/* Style pour le conteneur du formulaire */
+.form-container {
     display: flex;
     justify-content: center;
-  }
+}
   
-  /* Style pour le contenu du formulaire */
-  .form-content {
+/* Style pour le contenu du formulaire */
+.form-content {
     width: 100%;
     max-width: 300px; /* Ajustez la largeur maximale selon vos besoins */
-  }
+}
   
-  /* Style pour le bouton de soumission */
-  .submit-button {
+/* Style pour le bouton de soumission */
+.submit-button {
     background-color: #4BAA34;
     border: none;
-  }
+    transition: background-color 0.3s;
+}
+
+/* Effet de survol (hover) pour le bouton de soumission */
+.submit-button:hover {
+    background-color: #3a8a27;
+}
 </style>
