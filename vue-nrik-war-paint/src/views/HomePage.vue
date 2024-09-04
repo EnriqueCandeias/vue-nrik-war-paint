@@ -4,7 +4,7 @@
         <h2 style="text-align: center; margin-bottom: 1.5em;">Figurines à la une</h2>
         <div class="featured-grid">
           <div class="featured-item">
-            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1259.JPG" alt="Figurine Space Marine Ultramarines, peinte en bleu et or" width="250" height="350">
+            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1259.png" alt="Figurine Space Marine Ultramarines, peinte en bleu et or" width="250" height="350">
             <p>Stormcast Eternals</p>
             <div class="user-info">
               <img src="../assets/Icone-image-etc/Icone/LogoNrikwarpaint-removebg-preview.png" alt="Photo de profil utilisateur" width="40" height="40" class="profile-pic">
@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="featured-item">
-            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1262.JPG" alt="Figurine Elfe Sylvain, archer en tenue verte" width="250" height="350">
+            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1262.png" alt="Figurine Elfe Sylvain, archer en tenue verte" width="250" height="350">
             <p>Chevalier Questor</p>
             <div class="user-info">
               <img src="../assets/Icone-image-etc/Icone/LogoNrikwarpaint-removebg-preview.png" alt="Photo de profil utilisateur" width="40" height="40" class="profile-pic">
@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="featured-item">
-            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1272.JPG" alt="Figurine Chevalier du Chaos, armure noire avec des pointes" width="250" height="350">
+            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1272.png" alt="Figurine Chevalier du Chaos, armure noire avec des pointes" width="250" height="350">
             <p>Bladegheist Revenant</p>
             <div class="user-info">
               <img src="../assets/Icone-image-etc/Icone/LogoNrikwarpaint-removebg-preview.png" alt="Photo de profil utilisateur" width="40" height="40" class="profile-pic">
@@ -28,7 +28,7 @@
             </div>
           </div>
           <div class="featured-item">
-            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1283.JPG" alt="Figurine Mage de Feu, robe rouge flamboyante" width="250" height="350">
+            <img src="../assets/Icone-image-etc/Photo random communauté/IMG_1283.png" alt="Figurine Mage de Feu, robe rouge flamboyante" width="250" height="350">
             <p>Chainsrap</p>
             <div class="user-info">
               <img src="../assets/Icone-image-etc/Icone/LogoNrikwarpaint-removebg-preview.png" alt="Photo de profil utilisateur" width="40" height="40" class="profile-pic">
